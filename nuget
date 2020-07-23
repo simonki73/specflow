@@ -1,3 +1,4 @@
+# These are the scripts to run to install the required Nuget pacckages rather than use the Nuget Package Manager in Visual Studio
 Install-Package SpecFlow
 Install-Package SpecFlow.Tools.MsBuild.Generation
 Install-Package SpecRun.SpecFlow
