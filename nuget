@@ -1,0 +1,4 @@
+Install-Package SpecFlow
+Install-Package SpecFlow.Tools.MsBuild.Generation
+Install-Package SpecRun.SpecFlow
+Install-Package Microsoft.NET.Test.Sdk
