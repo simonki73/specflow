@@ -1,2 +1,2 @@
 # specflow
-Specflow
+Notes for [Getting Started](https://specflow.org/getting-started/)
